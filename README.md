@@ -26,7 +26,8 @@ Copy code
       
   </div>
   <div style="margin-right: 10px;">
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     </div>
   <div style="margin-right: 10px;">
     
