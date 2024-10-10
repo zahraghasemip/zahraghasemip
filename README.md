@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Zahra Ghasemi👋</h1>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="600" height="500" >
 
 ### 👩 About ME:
 - 🌱 I’m currently learning **Python**
@@ -6,12 +7,7 @@
 - 📫 How to reach me: zahraghasemi2487@gmail.com
 - 🎻 Fun fact: "When I'm not working with data, I love playing the violin. It's fascinating how both coding and music require precision and creativity!"
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="400" height="300" >
-
 ### 🛠️ Languages and Technologies
-
-
-
 
 <div style="display: flex; align-items: center;">
   
