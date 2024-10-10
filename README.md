@@ -1,4 +1,6 @@
-# Hi there I'm Zahra Ghasemi👋
+<p align="center">
+  Hi there, I'm Zahra Ghasemi👋
+</p>
 
 ### 👩 About ME:
 - 🌱 I’m currently learning Python
