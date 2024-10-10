@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Python**
 - 💬 I'm exploring **JS** and **Python** ;)
 - 📫 How to reach me: zahraghasemi2487@gmail.com
+- :heartpulse:	 
 - 🎻 Fun fact: "When I'm not working with data, I love playing the violin. It's fascinating how both coding and music require precision and creativity!"
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="400" height="300" style="margin-right: 20px;">
