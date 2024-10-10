@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi there, I'm Zahra Ghasemi👋</h1>
-</p>
+<h1 align="center">Hi there, I'm Zahra Ghasemi👋</h1>
 
 ### 👩 About ME:
 - 🌱 I’m currently learning Python
