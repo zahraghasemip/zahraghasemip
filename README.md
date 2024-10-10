@@ -7,7 +7,7 @@
 - 🎻 Fun fact: "When I'm not working with data, I love playing the violin. It's fascinating how both coding and music require precision and creativity!"
 
 ### 🛠️ Languages and Technologies
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="500" height="600" style="vertical-align: middle; margin-right: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="600" height="500" style="vertical-align: middle; margin-right: 20px;">
   
     
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
