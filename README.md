@@ -8,7 +8,7 @@
 
 ### 🛠️ Languages and Technologies
 <div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="100" height="100" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="100" height="100" style="vertical-align: middle; margin-right: 20px;">
   
   <div>
     
