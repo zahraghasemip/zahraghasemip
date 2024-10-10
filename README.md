@@ -20,7 +20,10 @@ Copy code
   
   <div style="display: flex; flex-wrap: wrap;">
     <div style="margin-right: 10px;">
-      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      
+     
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      
     </div>
     <div style="margin-right: 10px;">
       ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
