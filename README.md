@@ -9,8 +9,10 @@
 
 ### 🛠️ Languages and Technologies
 
+
+
 <div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="900" height="900" style="margin-right: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="100" height="100" style="margin-right: 10px;">
   
   <div>
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,8 +26,6 @@
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   </div>
 </div>
-
-
 
 
 
