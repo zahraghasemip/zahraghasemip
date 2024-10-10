@@ -7,6 +7,14 @@
 - 🎻 Fun fact: "When I'm not working with data, I love playing the violin. It's fascinating how both coding and music require precision and creativity!"
 
 ### 🛠️ Languages and Technologies
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Languages and Tools</title>
+<style>
 .badges {
 display: flex;
 gap: 10px; /* Adjust the gap between badges */
@@ -28,4 +36,6 @@ align-items: center;
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" width="400" height=auto style="vertical-align: middle; margin-right: 20px;">
 </div>
 </div>
+</body>
+</html>
   
