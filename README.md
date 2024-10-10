@@ -6,12 +6,3 @@
 - 📫 How to reach me: zahraghasemi2487@gmail.com
 - 🎻 Fun fact: "When I'm not working with data, I love playing the violin. It's fascinating how both coding and music require precision and creativity!"
 
-## 🛠️ Languages and Technologies
-- JavaScript (JS)
-- Python
-- TypeScript
-- Node.js
-- HTML
-- CSS
-- Bootstrap
-- Visual Studio
